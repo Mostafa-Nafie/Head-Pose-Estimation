@@ -1,5 +1,6 @@
 # Head Pose Estimation
-This project tries to find the direction a person is looking using the orientation of the head, the head orientation can be defined using pitch, yaw, and roll.  
+This project tries to find the direction a person is looking using the orientation of the head.  
+Head orientation can be defined using pitch, yaw, and roll, so I used a machine learning model tries to estimate these values using facial landmarks.
 <p align="center"> <img alt="head rotations" src="https://user-images.githubusercontent.com/44211916/177429857-0021ef17-c7bd-4584-874e-e3e8a5ccbf85.png"></p>
 
 ## Demo:
