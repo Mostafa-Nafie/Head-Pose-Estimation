@@ -4,7 +4,8 @@ Head orientation can be defined using pitch, yaw, and roll, so I used a machine 
 <p align="center"> <img alt="head rotations" src="https://user-images.githubusercontent.com/44211916/177429857-0021ef17-c7bd-4584-874e-e3e8a5ccbf85.png"></p>
 
 ## Demo:
-https://user-images.githubusercontent.com/44211916/178110573-c48d8638-c954-46ad-8639-88f2af83bc41.mp4
+https://user-images.githubusercontent.com/44211916/178145301-f9dd0f51-3912-4ee6-a8da-9a9f4f3b674d.mp4
+
 
 
 ## Dataset:  
